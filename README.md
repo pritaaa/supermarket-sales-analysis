@@ -76,6 +76,7 @@ Strategi marketing & manajemen stok sebaiknya difokuskan ke kategori dan waktu p
 ## Interactive Dashboard
 
 Klik gambar untuk membuka dashboard:
-[![Dashboard Preview](dashboard_thumbnail.png)]([https://lookerstudio.google.com/reporting/…](https://lookerstudio.google.com/reporting/24d75b90-cd88-4d9f-9c45-0e1ba4b46cca))
+[![Dashboard Preview](<img width="499" height="633" alt="image" src="https://github.com/user-attachments/assets/e3d62a88-b42b-4c2b-9300-98d3a57cf0be" />
+)]([https://lookerstudio.google.com/reporting/…](https://lookerstudio.google.com/reporting/24d75b90-cd88-4d9f-9c45-0e1ba4b46cca))
 
 
