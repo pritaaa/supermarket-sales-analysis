@@ -1,5 +1,5 @@
 # supermarket-sales-analysis
-Project ini mensimulasikan peran Data Analyst di sebuah supermarket chain dengan 3 cabang.
+Project ini mensimulasikan peran Data Analyst di sebuah supermarket chain dengan 3 cabang dan membantu tim Operasional, Marketing, dan Store Manager dalam mengoptimalkan performa 3 cabang supermarket.
 Manajemen ingin memahami pola penjualan dan profit untuk mengoptimalkan strategi promosi, alokasi staf, dan fokus kategori produk.
 
 ## Business Questions
@@ -25,6 +25,9 @@ Manajemen ingin memahami pola penjualan dan profit untuk mengoptimalkan strategi
 - Memprioritaskan aktivitas marketing dan display produk pada kategori Food & Beverages.
 - Menjadikan Branch C sebagai lokasi uji coba program upselling dan promo berskala besar.
 - Analisis penjualan supermarket berdasarkan transaksi nyata dari 3 cabang di Myanmar. Project ini mencakup EDA, visualisasi Excel, dan insight bisnis.
+
+## Tools & Workflow
+Excel → data cleaning → pivot analysis → dashboard → business insight
 
 ## Interactive Dashboard
 
